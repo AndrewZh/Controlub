@@ -1,0 +1,23 @@
+# OS X
+*.DS_Store
+
+*.class
+logger.txt
+
+# SQL Model
+*.mwb
+
+# Maven
+borsch-core/target
+borsch-web/target
+target/
+
+# IDEA
+*.iml
+.idea/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
